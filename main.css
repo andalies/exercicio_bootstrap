@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #fee1ee;
+    font-family: "Lora", serif;
+    
+}
+
+header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 16px 0;
+    color: rgb(114, 27, 79);
+    font-family: "Sacramento", cursive;
+}
+
+
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    }
+
+
+h2 {
+    font-family: "Sacramento", cursive; 
+    font-size: 35px; 
+    color: rgb(114, 27, 79);
+}
+
+form button {
+    font-family: "Lora", serif;
+    background-color: #eb9fab;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1em;
+}
